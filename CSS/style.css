@@ -1,0 +1,28 @@
+body {
+    background-color: #F0DAAE;
+}
+
+h1 {
+    color: #5cb018;
+    text-align: center;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #5cb018;
+}
+
+h2 {
+    color: #5cb018;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #5cb018;
+}
+
+em {
+    color: #5cb018;
+}
+
+div {
+    text-align: center;
+}
+
+.space {
+    margin-left: 25px;
+}
